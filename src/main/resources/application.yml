@@ -1,0 +1,16 @@
+server:
+  port: 9001
+
+cloud:
+  aws:
+    region:
+      static: us-east-1
+      auto: false
+    stack:
+      auto: false
+    credentials:
+      access-key: AKIAQNJ3P5PIA6TO63FU
+      secret-key: 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
+    end-point:
+      uri: https://sqs.us-east-1.amazonaws.com/028578933712/queue-estudos
+  
