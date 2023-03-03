@@ -9,8 +9,8 @@ cloud:
     stack:
       auto: false
     credentials:
-      access-key: AKIAQNJ3P5PIA6TO63FU
-      secret-key: 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
+      access-key: ****
+      secret-key: *****
     end-point:
       uri: https://sqs.us-east-1.amazonaws.com/028578933712/queue-estudos
   
